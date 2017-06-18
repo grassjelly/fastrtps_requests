@@ -12,7 +12,7 @@
     ```sh
     $ ./compile.sh
     ```
-3. Running the publisher which sends the fake data.
+3. Run the publisher which sends the fake data.
     ```sh
     $ ./build/app publisher
     ```
